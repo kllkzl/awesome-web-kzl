@@ -1,2 +1,2 @@
 # awesome-web-kzl
-python3 web
+python3 web project
