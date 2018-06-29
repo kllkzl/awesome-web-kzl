@@ -237,7 +237,6 @@ if __name__ == '__main__':
         password = StringField('password')
     #创建异步事件的句柄
     loop = asyncio.get_event_loop()
-
     #创建实例
     @asyncio.coroutine
     def test():
